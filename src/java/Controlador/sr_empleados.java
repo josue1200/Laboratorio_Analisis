@@ -61,7 +61,7 @@ public class sr_empleados extends HttpServlet {
                     response.sendRedirect("Empleados.jsp");
                 }
                 else{
-                    out.println("<h1>PTM Error</h1>");
+                    out.println("<h1> Error</h1>");
                 }
             }
             out.println("</body>");

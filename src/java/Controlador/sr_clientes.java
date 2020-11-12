@@ -71,7 +71,7 @@ public class sr_clientes extends HttpServlet {
                     response.sendRedirect("Clientes.jsp");
                 }
                 else{
-                    out.println("<h1>PTM Error</h1>");
+                    out.println("<h1> Error</h1>");
                 }
             }
             out.println("</body>");
