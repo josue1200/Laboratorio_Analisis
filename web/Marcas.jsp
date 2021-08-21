@@ -3,6 +3,8 @@
     Created on : 9/10/2020, 02:36:21 PM
     Author     : Miguel Rivera
 --%>
+<%--
+
 <%@page import="java.util.List"%>
 <%
       HttpSession actual =request.getSession(true);
@@ -112,7 +114,7 @@
     <input type="text" class="form-control" placeholder="Escriba la marca" id="txt_Marca" name="txt_Marca" required><br>
 <button name="boton_agregar" id="boton_agregar" value="agregar" class="btn btn-success">Agregar</button>
   <button name="boton_Modificar" id="boton_Modificar" value="modificar" class="btn btn-primary">Modificar</button>
-  <button name="boton_Eliminar" id="boton_Eliminar" value="eliminar" class="btn btn-danger" onclick="javascript:if(!confirm('Â¿Desea Eliminar?'))return false">Eliminar</button>
+  <button name="boton_Eliminar" id="boton_Eliminar" value="eliminar" class="btn btn-danger" onclick="javascript:if(!confirm('¿Desea Eliminar?'))return false">Eliminar</button>
   
 </form>
         </div>
@@ -160,3 +162,4 @@ response.sendRedirect("Primera.jsp");
 
 }
 %>
+--%>

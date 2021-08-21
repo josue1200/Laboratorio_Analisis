@@ -229,7 +229,7 @@
           <li>
 
 
-            <h1 style='font-family :Bookman Old Style;' class="titulo">GRUPO 7 UMG </h1>
+            <h1 style='font-family :Bookman Old Style;' class="titulo">GRUPO 8 UMG </h1>
 
       
 
@@ -245,7 +245,7 @@
       </div>
        
       <div class="fondo">
-        <h1 class="txt" style='font-family :Bookman Old Style; '>PROYECTO FINAL</h1>
+        <h1 class="txt" style='font-family :Bookman Old Style; '>Tienda OnLine</h1>
       </div>
       <div class="separador"></div>
       

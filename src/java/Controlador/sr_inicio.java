@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Miguel Rivera
+
  */
 public class sr_inicio extends HttpServlet {
 

@@ -21,7 +21,7 @@ Created on : 16/10/2020, 05:28:56 PM
        margin: 0;
        padding: 0;
        font-family: 'Roboto', sans-serif;
-       background:url(imagenes/111.jpg);
+       background:url(Imagenes/111.jpg);
      }
      .navbar{
       margin-top: -40px;
